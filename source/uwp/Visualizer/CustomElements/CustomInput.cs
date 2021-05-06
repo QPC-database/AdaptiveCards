@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using AdaptiveCards.Rendering.Uwp;
+using AdaptiveCards.ObjectModel.Uwp;
 using Windows.Data.Json;
 using Windows.UI;
 using Windows.UI.Xaml;
